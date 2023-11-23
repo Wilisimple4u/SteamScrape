@@ -3,6 +3,11 @@ from bs4 import BeautifulSoup
 import json
 import pandas as pd
 
+
+class TestError(BaseException):
+    ...
+
+
 #TODO: Explain what this does
 #requests makes a request for the webpage's Html and turns it into text
 html_text = requests.get('https://store.steampowered.com/search/?supportedlang=norwegian%2Cenglish&specials=1&hidef2p=1&ndl=1').text
