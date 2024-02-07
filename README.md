@@ -14,10 +14,10 @@ I meant this one: https://www.youtube.com/watch?v=XQgXKtPSzUI&t=11s&ab_channel=D
 
 #
 
-'''
+~~~
 import requests
 from bs4 import BeautifulSoup
-'''
+~~~
 
 #
 
