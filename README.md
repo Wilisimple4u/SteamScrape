@@ -25,9 +25,10 @@ from bs4 import BeautifulSoup
 # TODO
 
 Things I want to try and add to my Steam Scrape project README:
-- [x] Pictures
-- [x] Code segments/highlights
-- [ ] Tags
-- [ ] Highligted sections
-- [x] Checkboxes/bulletpointlist
+- [x] Pictures.
+- [x] Code segments/highlights.
+- [ ] Tags.
+- [ ] Highligted sections.
+- [x] Checkboxes/bulletpointlist.
 - [x] Links, is it as simple as copy paste? It is as simple as copy paste.
+- - [ ] Changeing the viewed name of the links.
