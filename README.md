@@ -15,9 +15,7 @@ I meant this one: https://www.youtube.com/watch?v=XQgXKtPSzUI&t=11s&ab_channel=D
 
 highlightet text:
 
-```
-test
-```
+
 
 `test`
 
@@ -30,6 +28,10 @@ test
 import requests
 from bs4 import BeautifulSoup
 ```
+
+~~~
+test
+~~~
 
 #
 
