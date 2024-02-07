@@ -39,7 +39,7 @@ Things I want to try and add to my Steam Scrape project README:
 
 #
 
-# Tests
+# README Example Tests
 
 highlightet text:
 
