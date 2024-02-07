@@ -14,6 +14,13 @@ I meant this one: https://www.youtube.com/watch?v=XQgXKtPSzUI&t=11s&ab_channel=D
 
 #
 
+'''
+import requests
+from bs4 import BeautifulSoup
+'''
+
+#
+
 # TODO
 
 Things I want to try and add to my Steam Scrape project README:
