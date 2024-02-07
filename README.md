@@ -2,8 +2,13 @@
 
 ![image](https://github.com/Wilisimple4u/SteamScrape/assets/112163287/5c06ab44-ddbf-44b8-94c6-5c757baada0f)
 
-The idea was to at least make a code that could scrape infromation off of Steam's search finding games on discount. 
-Where I would then move that infromation to my own website.
+#
+
+# About
+
+The project works with scrapeing infromation off of Steam's game search, that way I can have information on finding games on discount for example on my own website.  
+
+#
 
 # TODO
 
