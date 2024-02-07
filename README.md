@@ -22,4 +22,4 @@ Things I want to try and add to my Steam Scrape project README:
 - [ ] Tags
 - [ ] Highligted sections
 - [x] Checkboxes/bulletpointlist
-- [ ] Links, is it as simple as copy paste?
+- [x] Links, is it as simple as copy paste? It is as simple as copy paste.
