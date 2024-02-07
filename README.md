@@ -12,16 +12,6 @@ Here is a cool video about my project: https://www.youtube.com/watch?v=dQw4w9WgX
 
 I meant this one: https://www.youtube.com/watch?v=XQgXKtPSzUI&t=11s&ab_channel=DataScienceDojo
 
-
-highlightet text:
-
-**cool bold**
-cool not bold
-
-`test`
-
-``test``
-
 #
 
 # Code stuff
@@ -46,3 +36,16 @@ Things I want to try and add to my Steam Scrape project README:
 - [x] Checkboxes/bulletpointlist.
 - [x] Links, is it as simple as copy paste? It is as simple as copy paste.
 - - [ ] Changeing the viewed name of the links.
+
+#
+
+# Tests
+
+highlightet text:
+
+**cool bold**  
+cool not bold  
+
+`test`
+
+``test``
