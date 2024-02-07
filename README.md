@@ -6,7 +6,7 @@
 
 # About
 
-The project works with scrapeing infromation off of Steam's game search, that way I can have information on finding games on discount for example on my own website.  
+The project works with scraping infromation off of Steam's game search, that way I can have information on finding games on discount for example on my own website.  
 
 #
 
