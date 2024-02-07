@@ -8,7 +8,7 @@
 
 The **project** works with scraping infromation off of Steam's game search, that way I can have information on finding games on discount for example on my own website.  
 
-Here is a cool video about my project: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+Here is a cool video about my project: [description](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 I meant this one: https://www.youtube.com/watch?v=XQgXKtPSzUI&t=11s&ab_channel=DataScienceDojo
 
