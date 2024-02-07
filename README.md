@@ -26,7 +26,7 @@ from bs4 import BeautifulSoup
 
 Things I want to try and add to my Steam Scrape project README:
 - [x] Pictures
-- [ ] Code segments/highlights
+- [x] Code segments/highlights
 - [ ] Tags
 - [ ] Highligted sections
 - [x] Checkboxes/bulletpointlist
