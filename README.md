@@ -10,7 +10,7 @@ The **project** works with scraping infromation off of Steam's game search, that
 
 Here is a cool video about my project: [Webscraping for dummies](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
-I meant this one: https://www.youtube.com/watch?v=XQgXKtPSzUI&t=11s&ab_channel=DataScienceDojo
+I meant this one: [Webscraping](https://www.youtube.com/watch?v=XQgXKtPSzUI&t=11s&ab_channel=DataScienceDojo)
 
 #
 
