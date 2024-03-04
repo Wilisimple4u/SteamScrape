@@ -1,7 +1,51 @@
 # Steamscraper
 
-text file let's go!!!!!11!!!!1!
+![image](https://github.com/Wilisimple4u/SteamScrape/assets/112163287/5c06ab44-ddbf-44b8-94c6-5c757baada0f)
 
-The idea was to at least make a code that could scarpe infromation off of Steam's search finding games on discount. 
-Where I would then move that infromation to my own website.
+#
 
+# About
+
+The **project** works with scraping infromation off of Steam's game search, that way I can have information on finding games on discount for example on my own website.  
+
+Here is a cool video about my project: [Webscraping for dummies](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+
+I meant this one: [Webscraping](https://www.youtube.com/watch?v=XQgXKtPSzUI&t=11s&ab_channel=DataScienceDojo)
+
+#
+
+# Code stuff
+```
+import requests
+from bs4 import BeautifulSoup
+```
+
+~~~
+test
+~~~
+
+#
+
+# TODO
+
+Things I want to try and add to my Steam Scrape project README:
+- [x] Pictures.
+- [x] Code segments/highlights.
+- [ ] Tags.
+- [x] Highligted sections.
+- [x] Checkboxes/bulletpointlist.
+- [x] Links, is it as simple as copy paste? It is as simple as copy paste.
+- - [x] Changeing the viewed name of the links.
+
+#
+
+# README Example Tests
+
+highlightet text:
+
+**cool bold**  
+cool not bold  
+
+`test`
+
+``test``
